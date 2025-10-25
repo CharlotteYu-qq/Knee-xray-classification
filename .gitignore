@@ -1,0 +1,35 @@
+
+*.pth
+*.pt
+*.bin
+
+
+# cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# log files
+*.log
+logs/
+
+
+
+# environment files
+.env
+venv/
+env/
+
+# system files
+.DS_Store
+Thumbs.db
+
+# IDE configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# compressed files
+*.tar.gz
+*.zip

@@ -1,0 +1,26 @@
+PRECISION RESULTS
+==================================================
+Fold: 2
+Macro Precision: 0.4625
+Micro Precision: 0.5027
+Weighted Precision: 0.4927
+
+Precision per class:
+  KL-0: 0.5722
+  KL-1: 0.2787
+  KL-2: 0.5190
+  KL-3: 0.5143
+  KL-4: 0.4286
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        KL-0     0.5722    0.7181    0.6369       149
+        KL-1     0.2787    0.2464    0.2615        69
+        KL-2     0.5190    0.4184    0.4633        98
+        KL-3     0.5143    0.3673    0.4286        49
+        KL-4     0.4286    0.5455    0.4800        11
+
+    accuracy                         0.5027       376
+   macro avg     0.4625    0.4591    0.4541       376
+weighted avg     0.4927    0.5027    0.4910       376

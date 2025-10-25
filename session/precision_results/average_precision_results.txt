@@ -1,0 +1,12 @@
+AVERAGE PRECISION RESULTS ACROSS 5 FOLDS
+==================================================
+Average Macro Precision: 0.5227
+Average Micro Precision: 0.5348
+Average Weighted Precision: 0.5296
+
+Average Precision per class:
+  KL-0: 0.6198
+  KL-1: 0.3007
+  KL-2: 0.4978
+  KL-3: 0.6282
+  KL-4: 0.5670
